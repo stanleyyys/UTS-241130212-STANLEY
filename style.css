@@ -1,0 +1,39 @@
+.judul1{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    margin: 20px;
+}
+.gambar1{
+    width: 70%;
+    margin: 10px;
+}
+.link{
+    display: flex;
+    gap: 5px;
+}
+body{
+    background-color: #edfaee;
+}
+p{
+    font-family: "Poppins", sans-serif; 
+    margin: 15px; 
+}
+.judul2{
+    text-align: center;
+}
+.garis1{
+    border-color: #008000;
+}
+.garis2{
+    border-color: #008000;
+}
+.garis3{
+    border-color: #008000;
+}
+li{
+    margin: 10px;
+}
+img{
+    width: 90px;
+    margin: 10px;
+}
